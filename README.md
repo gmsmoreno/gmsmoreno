@@ -18,6 +18,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qgis Badge](https://img.shields.io/badge/qgis-3.16_Hannover-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 
 
 
