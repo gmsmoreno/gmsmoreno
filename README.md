@@ -12,6 +12,8 @@
 <a href='https://discord.com/channels/@gmsmoreno' target="_blank"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt='Discord'/></a>
 <a href='https://www.instagram.com/gabrielmsmoreno/' target="_blank"><img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'/></a>
 
+
+
 ## Background
 - 🖥️ I have skills in:
 
