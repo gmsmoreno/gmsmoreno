@@ -29,7 +29,7 @@
 ![Pycharm Badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postman Badge](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-![Flask Badge](https://img.shields.io/badge/Python-Flask-4B8BBE?style=flat&logo=python&logoColor=white)
+![Flask Badge](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![AWS Badge](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![GCP Badge](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
